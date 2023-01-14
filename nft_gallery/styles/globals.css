@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#copy-button {
+    background-image: url('copy.png');
+    background-size: cover;
+    width: 16px;
+    height: 16px;
+  }
